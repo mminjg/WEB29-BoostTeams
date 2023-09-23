@@ -14,9 +14,9 @@
 
 ## 문서 🗂️
 
-이 레포지토리는 원본 레포지토리가 아니기 때문에 [다음의 주소](https://github.com/boostcampwm-2021/WEB29-BoostTeam)로 가면 issue, pr, project, wiki탭을 확인하실 수 있습니다.    
+이 레포지토리는 원본 레포지토리가 아니기 때문에 [다음의 주소](https://github.com/boostcampwm-2021/WEB29-BoostTeams)로 가면 issue, pr, project, wiki탭을 확인하실 수 있습니다.    
 ❗리드미와 wiki에 이름이 적혀져 있어 주의가 필요합니다.❗    
-https://github.com/boostcampwm-2021/WEB29-BoostTeam
+[https://github.com/boostcampwm-2021/WEB29-BoostTeams](https://github.com/boostcampwm-2021/WEB29-BoostTeams)
 
 ## 개발 문화 🍻
 
